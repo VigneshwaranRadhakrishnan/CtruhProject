@@ -5,7 +5,9 @@
     <classes>
       <class name="Ctruh">
         <methods>
-          <include name="validLogin"/>
+          <include name="QC"/>
+          <include name="InvalidLogin"/>
+          <include name="setup"/>
         </methods>
       </class> <!-- Ctruh -->
     </classes>
