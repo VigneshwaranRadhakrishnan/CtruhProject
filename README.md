@@ -47,7 +47,6 @@ The following test cases are covered by the automation script:
 - Account Creation
 - Login with Social Media
 - Session Timeout
-- Concurrent Login
 
 ## Feedback and Contributions
 
